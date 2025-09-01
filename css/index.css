@@ -382,7 +382,6 @@
 .footer-up{
     width: 100%;
     height: 70%;
-    /* background-color: blue; */
     align-items: center;
     display: flex;
     justify-content: space-around;
@@ -391,7 +390,6 @@
     width: 20%;
     height: 80%;
     justify-content: space-between;
-    /* background-color: #d4bc6b; */
 }
 .hot-wire{
     color: #ffffdd;
